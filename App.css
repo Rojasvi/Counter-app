@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  color: white;
+  background-color: rgb(12, 12, 12);
+}
+.counter{
+  background-color: #3bb1d4; /* Green */
+  border-radius: 8px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  display:center;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: left;
+}
+
